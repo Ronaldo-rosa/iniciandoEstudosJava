@@ -1,5 +1,5 @@
 package aula2;
-import  java.util.Scanner;
+import java.util.Scanner;
 public class Ex4 {
     public static void main(String[] args) {
         Scanner obterDados = new Scanner(System.in);
